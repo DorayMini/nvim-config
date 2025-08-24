@@ -11,6 +11,7 @@
 - [**nvim-lspconfig**](https://github.com/neovim/nvim-lspconfig) – Quick configuration for Neovim's built-in LSP client.
 - [**none-ls**](https://github.com/nvimtools/none-ls.nvim) – Use linters, formatters, and code actions as LSP sources.
 - [**refactoring.nvim**](https://github.com/ThePrimeagen/refactoring.nvim) – Refactoring tools integrated with Telescope.
+- [**lspsaga.nvim**](https://github.com/nvimdev/lspsaga.nvim) - Enhanced LSP UIs: hover docs, code actions, and peek definitions.
 
 ### 📂 File Management
 - [**neo-tree.nvim**](https://github.com/nvim-neo-tree/neo-tree.nvim) – Modern file explorer powered by Lua.
