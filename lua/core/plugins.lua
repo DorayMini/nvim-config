@@ -60,6 +60,7 @@ require("lazy").setup({
       "nvim-treesitter/nvim-treesitter",
     }
   },
-  { 'nvimdev/lspsaga.nvim' }
+  { 'nvimdev/lspsaga.nvim' },
+  { 'Civitasv/cmake-tools.nvim' },
 })
 

@@ -12,6 +12,7 @@
 - [**none-ls**](https://github.com/nvimtools/none-ls.nvim) – Use linters, formatters, and code actions as LSP sources.
 - [**refactoring.nvim**](https://github.com/ThePrimeagen/refactoring.nvim) – Refactoring tools integrated with Telescope.
 - [**lspsaga.nvim**](https://github.com/nvimdev/lspsaga.nvim) - Enhanced LSP UIs: hover docs, code actions, and peek definitions.
+- [**cmake-tools.nvim**](https://github.com/Civitasv/cmake-tools.nvim) – Full CMake integration: configure, build, run, and debug directly from Neovim.
 
 ### 📂 File Management
 - [**neo-tree.nvim**](https://github.com/nvim-neo-tree/neo-tree.nvim) – Modern file explorer powered by Lua.
