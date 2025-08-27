@@ -1,4 +1,5 @@
 require("toggleterm").setup{
+  shell = "fish",
   size = 20,
   open_mapping = [[<c-\>]],
   hide_numbers = true,

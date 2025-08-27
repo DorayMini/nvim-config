@@ -8,9 +8,11 @@ local lspconfig = require("lspconfig")
 lspconfig.lua_ls.setup({})
 lspconfig.pyright.setup({})
 lspconfig.clangd.setup({
-  cmd = { "clangd", "--compile-commands-dir=build" },
+  cmd = { "clangd", "--background-index" },
+  filetype = { "c", "cpp", "objc", "objcpp"},
   root_dir = require("lspconfig.util").root_pattern("compile_commands.json", "CMakeLists.txt", ".git")
 })
+
 lspconfig.zls.setup({
   cmd = { "zls" },
   filetypes = { "zig", "zir" },
