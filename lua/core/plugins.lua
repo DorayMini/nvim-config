@@ -62,5 +62,12 @@ require("lazy").setup({
   },
   { 'nvimdev/lspsaga.nvim' },
   { 'Civitasv/cmake-tools.nvim' },
+  { 
+    "rcarriga/nvim-dap-ui", 
+    dependencies = {
+        "mfussenegger/nvim-dap", 
+        "nvim-neotest/nvim-nio"
+    }
+  }
 })
 

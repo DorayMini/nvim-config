@@ -13,6 +13,8 @@
 - [**refactoring.nvim**](https://github.com/ThePrimeagen/refactoring.nvim) – Refactoring tools integrated with Telescope.
 - [**lspsaga.nvim**](https://github.com/nvimdev/lspsaga.nvim) - Enhanced LSP UIs: hover docs, code actions, and peek definitions.
 - [**cmake-tools.nvim**](https://github.com/Civitasv/cmake-tools.nvim) – Full CMake integration: configure, build, run, and debug directly from Neovim.
+- [**nvim-dap**](https://github.com/mfussenegger/nvim-dap) – Debug Adapter Protocol client for Neovim.
+- [**nvim-dap-ui**](https://github.com/rcarriga/nvim-dap-ui) – A UI for `nvim-dap` with panels, breakpoints list, scopes, and console.
 
 ### 📂 File Management
 - [**neo-tree.nvim**](https://github.com/nvim-neo-tree/neo-tree.nvim) – Modern file explorer powered by Lua.

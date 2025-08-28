@@ -1,4 +1,8 @@
 -- Basic
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.expandtab = true
+
 require('core.plugins')
 require('core.mappings')
 require('core.colors')
@@ -19,3 +23,4 @@ require('plugins.flash')
 require('plugins.refactoring')
 require('plugins.lspsaga')
 require('plugins.cmake')
+require('plugins.dapui')
